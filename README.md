@@ -195,4 +195,5 @@ Telemetry is simulated using the IoT Core built-in MQTT test client, publishing 
 
 ## Author
 Pacifique Ntwali, 
+
 Built as part of a cloud portfolio to demonstrate serverless IoT architecture on AWS.
